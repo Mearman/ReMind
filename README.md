@@ -53,8 +53,8 @@ To get started with reMind, follow these steps:
     After installing Ollama, follow these steps to set up the LLM:
 
     ```sh
-    ollama run llama3
-    ollama run nomic-embed-text
+    ollama pull llama3
+    ollama pull nomic-embed-text
     ollama create recallAI
     ```
 
